@@ -1,0 +1,17 @@
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefenseTests.deps.json
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefenseTests.runtimeconfig.json
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefenseTests.runtimeconfig.dev.json
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefenseTests.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefenseTests.pdb
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefense.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/bin/Debug/netcoreapp2.1/TowerDefense.pdb
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.csprojAssemblyReference.cache
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.csproj.CoreCompileInputs.cache
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.AssemblyInfoInputs.cache
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.AssemblyInfo.cs
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.csproj.CopyComplete
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.dll
+/Users/bruno/Projects/TowerDefense/TowerDefenseTests/obj/Debug/netcoreapp2.1/TowerDefenseTests.pdb

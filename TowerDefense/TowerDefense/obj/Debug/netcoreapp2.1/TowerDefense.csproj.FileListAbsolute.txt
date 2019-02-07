@@ -1,0 +1,10 @@
+/Users/bruno/Projects/TowerDefense/TowerDefense/bin/Debug/netcoreapp2.1/TowerDefense.deps.json
+/Users/bruno/Projects/TowerDefense/TowerDefense/bin/Debug/netcoreapp2.1/TowerDefense.runtimeconfig.json
+/Users/bruno/Projects/TowerDefense/TowerDefense/bin/Debug/netcoreapp2.1/TowerDefense.runtimeconfig.dev.json
+/Users/bruno/Projects/TowerDefense/TowerDefense/bin/Debug/netcoreapp2.1/TowerDefense.dll
+/Users/bruno/Projects/TowerDefense/TowerDefense/bin/Debug/netcoreapp2.1/TowerDefense.pdb
+/Users/bruno/Projects/TowerDefense/TowerDefense/obj/Debug/netcoreapp2.1/TowerDefense.csproj.CoreCompileInputs.cache
+/Users/bruno/Projects/TowerDefense/TowerDefense/obj/Debug/netcoreapp2.1/TowerDefense.AssemblyInfoInputs.cache
+/Users/bruno/Projects/TowerDefense/TowerDefense/obj/Debug/netcoreapp2.1/TowerDefense.AssemblyInfo.cs
+/Users/bruno/Projects/TowerDefense/TowerDefense/obj/Debug/netcoreapp2.1/TowerDefense.dll
+/Users/bruno/Projects/TowerDefense/TowerDefense/obj/Debug/netcoreapp2.1/TowerDefense.pdb
